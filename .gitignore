@@ -16,7 +16,6 @@ test-lib
 node_modules
 
 */atc
-dist/*
 output/*
 
 npm-debug.log
