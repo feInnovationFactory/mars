@@ -53,10 +53,6 @@
       <div class="tank-replayer--legend">
         <tank class="is-legend" type="blue"></tank>{{ blueHost }}
         <tank class="is-legend" type="red"></tank>{{ redHost }}
-        <a href="https://git.elenet.me/long.zhang/tank-replayer"
-           target="blank"
-           style="float: right;"
-           class="el-button el-button--default el-button--info el-button--mini">Source Code</a>
       </div>
       <div class="tank-replayer">
         <tank-map
